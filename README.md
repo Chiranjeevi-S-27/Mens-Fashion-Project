@@ -27,7 +27,7 @@ This project demonstrates **end-to-end data analytics skills**, including:
 
 # 🚀 Project Overview
 
-The **U-Fashion Analytics Dashboard** provides insights into:
+The **Fashion Analytics Dashboard** provides insights into:
 
 * Brand performance
 * Product pricing strategy
