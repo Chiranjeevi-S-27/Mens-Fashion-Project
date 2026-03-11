@@ -11,7 +11,7 @@ A *Power BI Data Analytics project* that analyzes fashion product pricing, disco
 
 ---
 
-# 👕 U-Fashion Sales Analytics Dashboard
+# 👕 Fashion Sales Analytics Dashboard
 
 A **Power BI Data Analytics project** that analyzes fashion product pricing, discounts, and profitability using **SQL, Power Query, and DAX calculations**.
 
